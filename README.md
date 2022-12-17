@@ -1,1 +1,1 @@
-CPE124-PROJECTS
+CPE124-Simple Calculator
